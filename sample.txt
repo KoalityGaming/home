@@ -1,0 +1,1 @@
+{"Trouble In Terrorist Town":{"id":0,"ip":"74.91.116.42:27015","players":5,"maxplayers":24,"map":"ttt_67thway_v7_ktt","gamemode":"Trouble in Terrorist Town"},"Gun Game":{"id":1,"ip":"162.248.95.65:27015","players":4,"maxplayers":24,"map":"cs_italy","gamemode":"Gun Game"}}
